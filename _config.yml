@@ -1,0 +1,14 @@
+layout_spectrum: 0.5545012601651251
+typography_spectrum: 0.5000774906948209
+color:
+  brandStrength: 0.5281361907254905
+  lightness: 0.17631131364032626
+  saturation: 0.8351885657757521
+  rhythmicContrast: 0.24582352209836245
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Marrakesh.Me
